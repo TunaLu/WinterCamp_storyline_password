@@ -60,10 +60,10 @@ int function_5(int input){
 }
 
 int printPassword(int input){
-    printf("%d",function_1(input));
-    printf("%d",function_2(input));
-    printf("%d",function_3(input));
-    printf("%d",function_4(input));
-    printf("%d",function_5(input));
+    printf("%d ",function_1(input));
+    printf("%d ",function_2(input));
+    printf("%d ",function_3(input));
+    printf("%d ",function_4(input));
+    printf("%d ",function_5(input));
 }
 
