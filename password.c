@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int function_1(int input){
     int a=input+1;
     int b=a*a;
@@ -65,7 +66,4 @@ int printPassword(int input){
     printf("%d",function_4(input));
     printf("%d",function_5(input));
 }
-int main(){
-    int input=23;
-    printPassword(input);
-}
+
